@@ -2,6 +2,8 @@
 
 A terminal file browser for audio. Point it at a folder and it lists sound files with duration and created date, and plays them with seek controls.
 
+![sound-explorer browsing a folder and playing a wav file](screenshot.png)
+
 ## Usage
 
 ```
